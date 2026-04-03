@@ -1,0 +1,11 @@
+let testnum=3
+console.log("input num is  "+testnum)
+if(testnum>0){
+    console.log("Positive number")
+}
+else if (testnum<0){
+    console.log("negative number")
+}
+else{
+    console.log("neutral")
+}
